@@ -1,6 +1,9 @@
 # Anders Strand
 ## Embedded systems engineer
 
-- Bulleted
-Ting
-Thang
+- Real time programming
+- Embedded systems design
+- Rapid prototyping
+- Electronics
+
+Contact: anders@astrand.tech
