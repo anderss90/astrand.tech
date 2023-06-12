@@ -1,5 +1,5 @@
 <h4>Freelance developer within embedded and real-time systems</h4>
-<img src="headshot_bw.png">
+<img src="bw_cropped.png" height="100">
 - Programming in C, C++ and Python
 - Embedded systems design
 - Rapid prototyping 
